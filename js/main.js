@@ -68,42 +68,8 @@ var files = (function () {
         }
     };
     Singleton.defaultOptions = {
-        "bio.txt": "Once upon a high school chemistry class, a younger version of me, sleep-deprived and just a tad lazy, looked at the tedious task of hand-drawing titration curves and thought, \"There's got to be a better way\". So, fueled by the dual desire to sleep more and work less, I turned to Excel. Little did I know, this minor act of rebellion against hand-drawn graphs would not only earn me some extra brownie points in class but also set the stage for my professional journey. Fast forward to today, I've combined that early penchant for simplifying things with my background in social science. My forte? Helping traditional businesses, who might be a bit wary of all this digital wizardry, find their footing in the digital age. I take those daunting, complicated processes they face, and with a sprinkle of that same old high school ingenuity, I optimize them into something far less terrifying. At the heart of it all, my goal remains simple: to make things a little easier and a lot more efficient for everyone.",
-        "services.txt": `Here's what I've got for you:
-    
-    1. **Remote IT Support**: 
-    - Got software issues? I'll sort them out.
-    
-    2. **Web Development**: 
-    - Good looking websites that work like they should.
-    
-    3. **Custom PC Assembly**: 
-    - Built just how you want it.
-    
-    4. **Spreadsheet Solutions**:
-    - Data analysis in Microsoft Excel and Google Sheets.
-    - Automation through macros and scripts.
-    - Custom function creation.
-    - Visual charts and dashboard design.
-    - Design and optimization of spreadsheet templates.
-    
-    5. **Legal Professional IT Services**:
-    - Locking down your client data with full encryption.
-    - Organized and safe document storage.
-    - Encrypted platforms for talking to clients.
-    - Streamlining workflows with consistent encryption practices.
-    
-    6. **Low-Code Applications**: 
-    - Using Google Apps Script to build what you need.
-    
-    7. **Smart Solutions with AI**:
-    - Leveraging Large Language Models for things like data insights and auto-responses.
-    - Development of intelligent chatbots for websites, designed to automate customer service tasks.`,
-        
+        "bio.txt": "Once upon a high school chemistry class, a younger version of me, sleep-deprived and just a tad lazy, looked at the tedious task of hand-drawing titration curves and thought, \"There's got to be a better way\". So, fueled by the dual desire to sleep more and work less, I turned to Excel. Little did I know, this minor act of rebellion against hand-drawn graphs would not only earn me some extra brownie points in class but also set the stage for my professional journey. Fast forward to today, I've combined that early penchant for simplifying things with my background in social science. My forte? Helping traditional businesses, who might be a bit wary of all this digital wizardry, find their footing in the digital age. I take those daunting, complicated processes they face, and with a sprinkle of that same old high school ingenuity, I optimize them into something far less terrifying. At the heart of it all, my goal remains simple: to make things a little easier and a lot more efficient for everyone.",        
         "linkedin.url": "https://www.linkedin.com/in/germriccio/",
-        "replit.url": "https://replit.com/@germabyte/",
-        "github.url": "https://github.com/germabyte/",
-        "resume.pdf": "https://github.com/germabyte/resume/raw/main/resume.pdf",
         "contact_info.txt": "email: germ.riccio@gmail.com\ntelephone: +39 3313815525\nP.IVA: 10300311213",
         "acknowledgements.txt": "Special acknowledgment to Luís Bragança: https://github.com/luisbraganca/fake-terminal-website, Rob Scanlon: https://github.com/arscan/pleaserotate.js, and GPT-4 by OpenAI for assistance in content creation."
     };
