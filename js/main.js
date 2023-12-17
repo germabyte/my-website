@@ -26,7 +26,7 @@ var configs = (function () {
     rmdir_help: "Deletes an empty directory.",
     touch_help: "Creates a new file in the current directory.",
     sudo_help: "Executes commands as the system administrator.",
-    welcome: "Hello! I'm Germano Riccio.\nLeveraging Google Workspace, I specialize in creating customized digital solutions for legal professionals. My focus is on automating tasks and communications, notably through Google Sheets and automated email systems, to streamline legal workflows and enhance efficiency. With a commitment to practical, innovative strategies, I excel in delivering tailored solutions that boost productivity in the legal sector.\nTo view a list of available terminal commands, type 'help'.\nTo explore my certifications and professional background, type 'open linkedin.url' or use the LinkedIn link which is accessible via the menu.\nThank you for visiting, and happy exploring!",
+    welcome: "Hello! I am Germano Riccio, an expert in enhancing the operational efficiency of legal professionals through bespoke digital solutions. \n\nMy expertise lies in utilizing Google Workspace to refine and streamline workflows and communication processes, thereby augmenting productivity. I am adept at automating monotonous tasks utilizing advanced tools such as Google Apps Script. \n\nWith a steadfast dedication to pragmatic automation strategies, I am committed to devising customized solutions that significantly diminish inefficiencies and augment the time allocated to fundamental work tasks.",
     internet_explorer_warning: "ERROR! Unsupported browser.",
     welcome_file_name: "welcome_message.txt",
     invalid_command_message: "<value>: command not found.",
