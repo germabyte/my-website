@@ -26,7 +26,7 @@ var configs = (function () {
     rmdir_help: "Deletes an empty directory.",
     touch_help: "Creates a new file in the current directory.",
     sudo_help: "Executes commands as the system administrator.",
-    welcome: "Hello! I am Germano Riccio, an expert in enhancing the operational efficiency of legal professionals through bespoke digital solutions. \n\nMy expertise lies in utilizing Google Workspace to refine and streamline workflows and communication processes, thereby augmenting productivity. I am adept at automating monotonous tasks utilizing advanced tools such as Google Apps Script. \n\nWith a steadfast dedication to pragmatic automation strategies, I am committed to devising customized solutions that significantly diminish inefficiencies and augment the time allocated to fundamental work tasks.",
+    welcome: "Hello!\nI am Germano Riccio, an expert in enhancing the operational efficiency of legal professionals through bespoke digital solutions.\nMy expertise lies in utilizing Google Workspace to refine and streamline workflows and communication processes, thereby augmenting productivity. I am adept at automating monotonous tasks utilizing advanced tools such as Google Apps Script.\nWith a steadfast dedication to pragmatic automation strategies, I am committed to devising customized solutions that significantly diminish inefficiencies and augment the time allocated to fundamental work tasks.",
     internet_explorer_warning: "ERROR! Unsupported browser.",
     welcome_file_name: "welcome_message.txt",
     invalid_command_message: "<value>: command not found.",
